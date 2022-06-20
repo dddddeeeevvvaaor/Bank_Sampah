@@ -1,0 +1,38 @@
+
+f
+java:S1301v"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªƒÑ“ıÿÿÿÿ
+o	java:S116;"URename this field "REQ_CAMERA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÿŒ¯ÿÿÿÿÿ
+F
+java:S1659<"+Declare "imageFilename" on a separate line.(¡øÈèüÿÿÿÿ
+_
+java:S1659="IDeclare "strTimeStamp" and all following declarations on a separate line.(—ÎŞ
+]
+java:S1659D"GDeclare "inputBerat" and all following declarations on a separate line.(·«‰ú
+h
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¯¼îÒ
+<	java:S131v""Add a default case to this switch.(öÛ«°şÿÿÿÿ
+Z
+java:S1874ƒ">Remove this use of "startActivityForResult"; it is deprecated.(×›Ù¥ûÿÿÿÿ
+U
+java:S1874š">Remove this use of "startActivityForResult"; it is deprecated.(Ì„Ş¹
+e
+java:S1874Ô"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(È›³®şÿÿÿÿ
+f
+java:S1874Û"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û›ë´øÿÿÿÿ
+a
+java:S1874ç"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+i
+java:S3252í"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(™ÅÀåøÿÿÿÿ
+H
+java:S1874í",Remove this use of "DATA"; it is deprecated.(™ÅÀåøÿÿÿÿ
+T
+java:S1874Œ"=Remove this use of "setSystemUiVisibility"; it is deprecated.(«»øÆ
+[
+java:S1874Œ"DRemove this use of "SYSTEM_UI_FLAG_LAYOUT_STABLE"; it is deprecated.(«»øÆ
+d
+java:S1874"HRemove this use of "SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN"; it is deprecated.(›¦Úıÿÿÿÿ
+c
+java:S1874"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(›¦Úıÿÿÿÿ
+V
+java:S1874‘"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¨üØÑ

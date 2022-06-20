@@ -1,0 +1,38 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÈ¬Ñúÿÿÿÿ
+j	java:S116%"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†Ùóşÿÿÿÿ
+i	java:S116%"ORename this field "Nama" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†Ùóşÿÿÿÿ
+s	java:S116&"YRename this field "REQ_PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŸ¹Œùÿÿÿÿ
+?
+java:S1659$"$Declare "etNama" on a separate line.(Ú…† üÿÿÿÿ
+=
+java:S1659%""Declare "Nama" on a separate line.(Ä†Ùóşÿÿÿÿ
+A
+java:S1659)"&Declare "strTitle" on a separate line.(¢¤Ş·ÿÿÿÿÿ
+j
+java:S1659+"ODeclare "cvSampahNonOrganik" and all following declarations on a separate line.(Èäÿâûÿÿÿÿ
+Q	java:S125e"<This block of commented-out lines of code should be removed.(ö¾òÔ
+V	java:S125n"<This block of commented-out lines of code should be removed.(½óª±øÿÿÿÿ
+U
+java:S1155š">Use isEmpty() to check whether the collection is empty or not.(›øùó
+m
+java:S3252£"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(µ‰¯0
+s
+java:S3252¥"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ÍĞÖ¸ûÿÿÿÿ
+f
+java:S1874­"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û›ë´øÿÿÿÿ
+a
+java:S1874¹"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+D	java:S108»")Either remove or fill this block of code.(ğûÆùÿÿÿÿÿ
+T
+java:S1874Â"=Remove this use of "setSystemUiVisibility"; it is deprecated.(«»øÆ
+[
+java:S1874Â"DRemove this use of "SYSTEM_UI_FLAG_LAYOUT_STABLE"; it is deprecated.(«»øÆ
+d
+java:S1874Ã"HRemove this use of "SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN"; it is deprecated.(›¦Úıÿÿÿÿ
+c
+java:S1874Ã"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(›¦Úıÿÿÿÿ
+V
+java:S1874Ç"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¨üØÑ
+F
+java:S1144B"0Remove this unused private "moveToLogin" method.(·•áü

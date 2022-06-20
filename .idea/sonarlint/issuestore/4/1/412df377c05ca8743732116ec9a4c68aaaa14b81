@@ -1,0 +1,18 @@
+
+q
+java:S1104M"VMake tvKategori a static final constant or non-public and provide accessors if needed.(³„ÁÐþÿÿÿÿ
+m
+java:S1104M"RMake tvNama a static final constant or non-public and provide accessors if needed.(³„ÁÐþÿÿÿÿ
+m
+java:S1104M"RMake tvDate a static final constant or non-public and provide accessors if needed.(³„ÁÐþÿÿÿÿ
+o
+java:S1104M"TMake tvLokasi a static final constant or non-public and provide accessors if needed.(³„ÁÐþÿÿÿÿ
+p
+java:S1104N"UMake cvHistory a static final constant or non-public and provide accessors if needed.(ƒËŠÖûÿÿÿÿ
+n
+java:S1104O"XMake layoutHeader a static final constant or non-public and provide accessors if needed.(²¥›à
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒð–Ž
+^
+java:S1659M"CDeclare "tvNama" and all following declarations on a separate line.(³„ÁÐþÿÿÿÿ
+P
+java:S1874[":Remove this use of "getAdapterPosition"; it is deprecated.(“ü„ü

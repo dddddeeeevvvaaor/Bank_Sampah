@@ -1,0 +1,36 @@
+
+\
+java:S1192S"GDefine a constant instead of duplicating this literal "kunci3" 3 times.(»¼_
+ƒ
+java:S1319*"hThe type of "listData" should be an interface such as "List" rather than the implementation "ArrayList".(¥å¼ˆøÿÿÿÿ
+e	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬´
+e	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬´
+e	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬´
+e	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬´
+e	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬´
+k	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ´êÓşÿÿÿÿ
+C
+java:S1604a"(Make this anonymous inner class a lambda(ø÷Êçøÿÿÿÿ
+>
+java:S1604j"(Make this anonymous inner class a lambda(»È
+C
+java:S1604J"(Make this anonymous inner class a lambda(ğô«Ÿùÿÿÿÿ
+>
+java:S1604D"(Make this anonymous inner class a lambda(šû¢
+F
+java:S1604ƒ"(Make this anonymous inner class a lambda(¹á¨Ü8„Áî–0
+K
+java:S1604‘"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8„Áî–0
+a
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êø†«ùÿÿÿÿ
+V
+java:S16597"ADeclare "Nama" and all following declarations on a separate line.(ü¬´
+7	java:S131M""Add a default case to this switch.(ºÓ©¦
+h	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœ‰ôşÿÿÿÿ
+i
+java:S1858†"K"response" is already a string, there's no need to call "toString()" on it.(ïû8ÆÁî–0
+h	java:S116«"RRename this field "NamaTxt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«©çİ
+j	java:S116«"TRename this field "AlamatTxt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«©çİ
+>
+java:S1659«"'Declare "AlamatTxt" on a separate line.(«©çİ

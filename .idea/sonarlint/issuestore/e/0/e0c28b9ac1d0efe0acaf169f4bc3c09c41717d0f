@@ -1,0 +1,24 @@
+
+C
+java:S1604;"(Make this anonymous inner class a lambda(—¶şÆüÿÿÿÿ
+>
+java:S1604I"(Make this anonymous inner class a lambda(¹á¨Ü
+C
+java:S1604["(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ßàÖıÿÿÿÿ
+p	java:S116"VRename this field "Id_UserText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—é¼áúÿÿÿÿ
+g	java:S116 "RRename this field "Id_User" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“—„
+d	java:S116 "ORename this field "Nama" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“—„
+f	java:S116 "QRename this field "Alamat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“—„
+f	java:S116 "QRename this field "NamaEd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“—„
+h	java:S116 "SRename this field "AlamatEd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“—„
+p
+java:S3008#"URename this field "url_update" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤—œ¦øÿÿÿÿ
+A
+java:S1659"&Declare "edAlamat" on a separate line.(Ì¤šäıÿÿÿÿ
+W
+java:S1659 "ADeclare "Nama" and all following declarations on a separate line.(Ê“—„
+h	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ö²“şÿÿÿÿ
+a
+java:S1858L"K"response" is already a string, there's no need to call "toString()" on it.(ïû
+h	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí¬Úüÿÿÿÿ

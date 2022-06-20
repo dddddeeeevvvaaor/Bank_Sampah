@@ -1,0 +1,17 @@
+
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¶ª
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¶ª
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¶ª
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¶ª
+f
+java:S13010"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ËÁ…ûÿÿÿÿ
+d	java:S116"ORename this field "Nama" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Íƒí
+f	java:S116"QRename this field "Alamat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Íƒí
+e	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Íƒí
+h	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Íƒí
+`
+java:S1659"EDeclare "etAlamat" and all following declarations on a separate line.(ìØ¤²üÿÿÿÿ
+Y
+java:S1659"CDeclare "Alamat" and all following declarations on a separate line.(·Íƒí
+<	java:S1310""Add a default case to this switch.(×“¾ñùÿÿÿÿ

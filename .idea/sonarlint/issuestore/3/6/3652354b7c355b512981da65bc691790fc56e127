@@ -1,0 +1,32 @@
+
+>
+java:S1604p"(Make this anonymous inner class a lambda(»À‘
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ßàÖıÿÿÿÿ
+p
+java:S3008/"URename this field "url_select" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëËşÿÿÿÿ
+X	java:S125B"<This block of commented-out lines of code should be removed.(¤©åÜ8ˆªä‡—0
+Z
+java:S1874W"=Remove this use of "setSystemUiVisibility"; it is deprecated.(«»øÆ8ÖİÇ‡—0
+a
+java:S1874W"DRemove this use of "SYSTEM_UI_FLAG_LAYOUT_STABLE"; it is deprecated.(«»øÆ8ÖİÇ‡—0
+j
+java:S1874X"HRemove this use of "SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN"; it is deprecated.(›¦Úıÿÿÿÿ8ÖİÇ‡—0
+i
+java:S1874X"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(›¦Úıÿÿÿÿ8×İÇ‡—0
+\
+java:S1874\"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¨üØÑ8×İÇ‡—0
+^	java:S125†"<This block of commented-out lines of code should be removed.(¼†ûÿÿÿÿÿ8¯şü‡—0
+B
+java:S1068)"'Remove this unused "fab" private field.(ÈÃ‡Æøÿÿÿÿ
+R
+java:S1068*"0Remove this unused "recyclerView" private field.(¿á© ıÿÿÿÿ8ÜİÇ‡—0
+M
+java:S1068+"+Remove this unused "adapter" private field.(ÔÌî¬üÿÿÿÿ8°şü‡—0
+Q
+java:S1144G"/Remove this unused private "setToolbar" method.(è…Æ²ıÿÿÿÿ8’ªä‡—0
+O
+java:S1144Q"2Remove this unused private "setInitLayout" method.(¯¼îÒ8’ªä‡—0
+N
+java:S1144U"1Remove this unused private "setStatusBar" method.(‡ÈÛ8’ªä‡—0
